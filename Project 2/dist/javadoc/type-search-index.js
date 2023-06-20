@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"App","l":"App"},{"p":"Com.Config","l":"KoneksiDatabase"},{"p":"Com.Config","l":"MyConfig"}];updateSearchResults();
